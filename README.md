@@ -1,11 +1,13 @@
-*Anos do cão*
+*Dog Years*
 
-Os cães amadurecem a um ritmo mais rápido do que os seres humanos. Costumamos dizer que a idade de um cachorro pode ser calculada em “anos de cachorro” para contabilizar seu crescimento em comparação com um humano da mesma idade. De certa forma, poderíamos dizer que o tempo passa rapidamente para os cães – 8 anos na vida de um ser humano equivale a 45 anos na vida de um cão. Quantos anos você teria se fosse um cachorro?
+Dogs mature at a faster rate than human beings. We often say a dog’s age can be calculated in “dog years” to account for their growth compared to a human of the same age. In some ways we could say, time moves quickly for dogs — 8 years in a human’s life equates to 45 years in a dog’s life. How old would you be if you were a dog?
 
-Veja como você converte sua idade de “anos humanos” para “anos de cachorro”:
+Here’s how you convert your age from “human years” to “dog years”:
 
-Os primeiros dois anos de vida de um cão contam como 10,5 anos cada.
-Cada ano seguinte equivale a 4 anos de cão.
-Antes de começar a fazer as contas de cabeça, deixe um computador cuidar disso! Com seu conhecimento de operadores matemáticos e variáveis, use JavaScript para converter sua idade humana em anos de cachorro.
+•The first two years of a dog’s life count as 10.5 dog years each.
+
+•Each year following equates to 4 dog years.
+
+Before you start doing the math in your head, let a computer take care of it! With your knowledge of math operators and variables, use JavaScript to convert your human age into dog years.
 
 ![image](https://user-images.githubusercontent.com/80916152/189392615-fa9d8c00-5255-490f-8036-0374486962a5.png)
