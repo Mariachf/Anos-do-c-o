@@ -1,0 +1,30 @@
+const myAge = 23;
+//variavel myAge e minha idade como número.
+
+let earlyYears = 2;
+// o valor salvo nessa variável poderá ser  alterado.
+
+earlyYears *= 10.5;
+
+let laterYears = myAge - 2;
+//variavel myAge subtraida por 2, e definindo o resultado ao uma varievel laterYears.
+
+laterYears *= 4;
+//Use o operador de atribuição de multiplicação para multiplicar
+
+console.log(earlyYears);
+console.log(laterYears);
+
+let myAgeInDogYears = earlyYears + laterYears;
+
+let myName = "Maria".toLowerCase();
+//meu nome em uma string e armazene o resultado em uma variável chamada myName.
+
+//O toLowerCasemétodo retorna uma string com todas as letras minúsculas.
+
+console.log(
+  `My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.`
+);
+// usando interpolação de string para exibir o valor da frase
+
+//nesse projeto você pode fazer a mudança do myAge,convertendo qualquer idade humana em anos de cachorro.
